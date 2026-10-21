@@ -348,7 +348,7 @@ namespace fordina
                 { "A", new List<string> { "B", "C" , "F"} },
                 {"B", new List<string> {"C", "D", "A"}  },
                 {"C", new List<string>{"D"} },
-                {"D", new List<string>{} },
+                {"D", new List<string>{} }, 
                 {"F", new List<string>{"C", "H", "G", "Y"}  },
                 {"H", new List<string>{"D", "U", "Y"}  },
                 {"G", new List<string>{"Y"} },
